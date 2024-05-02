@@ -1,9 +1,8 @@
-hi
-
-origin
-
 tmp/
 _old
 _backup
 Thumbs.db
 .DS_Store
+*_backup Thumbs.db
+css/
+*__old

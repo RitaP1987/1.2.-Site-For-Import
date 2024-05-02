@@ -6,3 +6,6 @@ Thumbs.db
 *_backup Thumbs.db
 css/
 *__old
+.DS_Store/
+*_old
+Tmp/
